@@ -1,2 +1,2 @@
 # AirBnB_clone
-alx team project
+alx team project Moussa & Taiwo
